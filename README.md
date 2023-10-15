@@ -10,4 +10,5 @@ Real Time AI Research Chatbot Using Llama model
 Download and place model in models directory
 
 create .env file for storing API keys
+
 ![SCREENSHOT](Screenshot.png)
