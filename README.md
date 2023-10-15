@@ -11,4 +11,4 @@ Download and place model in models directory
 
 create .env file for storing API keys
 
-![SCREENSHOT](Screenshot.png)
+![SCREENSHOT](Chatbot Screenshot.png)
