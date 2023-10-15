@@ -11,7 +11,7 @@ app.secret_key = 'supersecretkey'  # Make sure to change this to a truly secret 
 def initialize_session():
     researcher = Researcher()
     session["researcher"] = researcher.to_dict()
-    session["user"] = ["Hey RoboWiz!"]
+    session["user"] = ["Hey AI assistant!"]
     session["apprentice"] = ["Hello. How can I help you?"]
 
 @app.route('/', methods=['GET', 'POST'])
